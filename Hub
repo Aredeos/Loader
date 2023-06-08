@@ -1,5 +1,7 @@
 if game.PlaceId == 3956818381 then
 loadstring(game:HttpGet('https://scripts.luawl.com/hosted/3911/19830/Ared.lua'))()
+elseif game.PlaceId == 1962086868 then
+loadstring(game:HttpGet('https://scripts.luawl.com/hosted/3911/19901/Tower.lua'))()
 else
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Adri1585/z/main/W3ave"))()
 end
